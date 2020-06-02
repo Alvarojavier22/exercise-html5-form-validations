@@ -8,6 +8,7 @@
 	"translations": ["es", "us"],
 	"syntax": "bootstrap",
 	"solution" : "https://codepen.io/alesanchezr/pen/zeaaVx",
+	"preview": "https://github.com/breatheco-de/exercise-html5-form-validations/blob/master/preview.gif?raw=true",
 	"description" : "Use Javascript to validate the inputs of an HTML form (on submit)",
 	"talents": [
 		{ "badge": "form-inputs", "points": 10 },
