@@ -1,6 +1,6 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  HTML5 Form Validations
 
-After building the HTML and CSS for this form, we need to make sure it prevents the user from submitting a form with the wrong information or format, in web development we call that: Form Validations.
+After building the HTML and CSS for this form, we need to make sure it prevents the user from submitting a form with the wrong information or format, in web development we call that: Form Validations, you can read more [here](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 
 To prevent a form submission we have to listen to the "submit" event that is triggered by the form itself when the user presses either: the enter/return key or the submit button.
 
