@@ -6,7 +6,7 @@ Para evitar que se envíe un formulario, tenemos que escuchar el evento "enviar"
 
 Si quieres saber más sobre como prevenir los eventos: [https://www.youtube.com/watch?v=I_fVO_NzT2g&t=401s](https://www.youtube.com/watch?v=I_fVO_NzT2g&t=401s)
 
-![Form Validations Preview](https://projects.breatheco.de/json?slug=html5-form-validations&preview)
+![Form Validations Preview](https://raw.githubusercontent.com/breatheco-de/exercise-html5-form-validations/master/preview.gif)
 
 ## Instrucciones
 
