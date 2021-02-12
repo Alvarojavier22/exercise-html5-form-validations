@@ -19,3 +19,9 @@ Tras que la usuaria presione el botón de submit:
 ## ¿Qué hacer si estás atascado?
 
 ¡No te sientas frustrado y pide ayuda! Después de probarte por tu cuenta durante 20 minutos, es hora de dejar de trabajar y pedir ayuda.
+
+## 🤠 ¿Te sientes confiado?
+
+Este requerimiento adicional no es necesario para completar el proyecto:
+
+`+5` Haz que los errores del formulario se visualizen arriba de cada input en lugar de mostrarlos en la parte de arriba del formulario. Si el error esta en el correo electronico entonces el mensaje de error deberia aparecer justo arriba del input para correo electronico, de esa forma el usuario entenderá más rápidamente donde esta el problema.
