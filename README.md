@@ -20,3 +20,9 @@ After the user submits the form:
 ## What to do if you are stuck?
 
 Don't get frustrated and ask for help! After trying on your own for 20 min, it is time to stop working and ask for help.
+
+## 🤠 Feeling Confident?
+
+This additional requirement is not mandatory to complete the project:
+
++5 Make the form errors show on top of each input instead of on the top of the form, that way the user will understand faster what the problem is about.
