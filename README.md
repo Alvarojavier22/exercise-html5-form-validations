@@ -8,8 +8,6 @@ Here is a little more about preventing an event from occurring: [https://www.you
 
 ![Form Validations Preview](https://github.com/breatheco-de/exercise-html5-form-validations/blob/master/preview.gif?raw=true)
 
-VANILLAJS BOILERPLATE ENGLISH
-
 ## 🌱  How to start this project
 
 Do not clone this repository.
@@ -40,4 +38,4 @@ Don't get frustrated and ask for help! After trying on your own for 20 min, it i
 
 This additional requirement is not mandatory to complete the project:
 
-+5 Make the form errors show on top of each input instead of on the top of the form, that way the user will understand faster what the problem is about.
+ Make the form errors show on top of each input instead of on the top of the form, that way the user will understand faster what the problem is about.
